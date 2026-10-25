@@ -1,0 +1,8 @@
+.gradle/
+build/
+run/
+.idea/
+*.iml
+# klucz prywatny licencji - NIGDY nie publikuj
+tools/keys/private.key
+tools/issued.csv
